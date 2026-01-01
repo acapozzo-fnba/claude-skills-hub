@@ -17,11 +17,6 @@
       "source": "./plugins/changelog-generator"
     },
     {
-      "name": "diagram-generation",
-      "description": "Technical network/infrastructure diagrams using gemimg CLI",
-      "source": "./plugins/diagram-generation"
-    },
-    {
       "name": "document-skills",
       "description": "Work with Office documents (docx, pdf, pptx, xlsx)",
       "source": "./plugins/document-skills"

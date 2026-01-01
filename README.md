@@ -28,14 +28,13 @@ Or install individual plugins via command:
 /plugin install gemimg-generation@acapozzo-claude-marketplace
 ```
 
-## Available Plugins (16)
+## Available Plugins (15)
 
 ### Image & Design
 
 | Plugin | Description |
 |--------|-------------|
 | **artifacts-builder** | Multi-component claude.ai HTML artifacts with React/Tailwind/shadcn |
-| **diagram-generation** | Technical network/infrastructure diagrams |
 | **gemimg-generation** | AI image generation using Gemini API |
 | **image-upscaling** | AI-powered image upscaling with Real-ESRGAN |
 | **theme-factory** | Styling artifacts with 10 pre-set themes |
@@ -70,7 +69,7 @@ After installation, skills are auto-invoked by Claude based on task context. Eac
 ```
 claude-skills-hub/
 ├── .claude-plugin/
-│   └── marketplace.json          # Lists all 16 plugins
+│   └── marketplace.json          # Lists all 15 plugins
 └── plugins/
     ├── github-cli/
     │   ├── .claude-plugin/
@@ -78,7 +77,7 @@ claude-skills-hub/
     │   └── skills/
     │       └── github-cli/
     │           └── SKILL.md      # Skill definition
-    └── ... (15 more plugins)
+    └── ... (14 more plugins)
 ```
 
 ## Version

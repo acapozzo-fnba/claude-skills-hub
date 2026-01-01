@@ -1,8 +1,0 @@
-{
-  "name": "diagram-generation",
-  "version": "1.0.0",
-  "description": "Generate technical network topology diagrams, infrastructure diagrams, and architecture visualizations using gemimg CLI with optimized prompts for technically-minded audiences.",
-  "author": {
-    "name": "Andrew Capozzo"
-  }
-}
