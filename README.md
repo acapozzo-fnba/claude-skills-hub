@@ -12,7 +12,7 @@ Curated collection of 16 individually installable plugins for Claude Code.
 ### Add Marketplace
 
 ```bash
-/plugin marketplace add acapozzo/claude-skills-hub
+/plugin marketplace add acapozzo-fnba/claude-skills-hub
 ```
 
 ### Install Plugins
