@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Best practices for running Zensical documentation server locally with proper hot reload and restart patterns",
   "author": {
-    "name": "acapozzo"
-  },
-  "keywords": ["zensical", "documentation", "mkdocs", "dev-server", "hot-reload"]
+    "name": "Andrew Capozzo"
+  }
 }
