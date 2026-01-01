@@ -1,0 +1,8 @@
+{
+  "name": "jira-story-generator",
+  "version": "1.0.0",
+  "description": "Generates well-structured Jira user stories from problem descriptions, including user story format, acceptance criteria, technical details, and story point estimates. Perfect for converting investigation findings into actionable backlog items.",
+  "author": {
+    "name": "Andrew Capozzo"
+  }
+}

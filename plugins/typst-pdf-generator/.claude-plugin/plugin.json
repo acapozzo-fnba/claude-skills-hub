@@ -1,0 +1,8 @@
+{
+  "name": "typst-pdf-generator",
+  "version": "1.0.0",
+  "description": "Automatically converts markdown files to professional PDFs using Typst and Pandoc. Handles images, templates, and generates organized project folders.",
+  "author": {
+    "name": "Andrew Capozzo"
+  }
+}

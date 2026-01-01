@@ -1,0 +1,90 @@
+{
+  "name": "acapozzo-claude-marketplace",
+  "version": "3.2.0",
+  "description": "Local skills marketplace with individually installable plugins",
+  "owner": {
+    "name": "Andrew Capozzo"
+  },
+  "plugins": [
+    {
+      "name": "artifacts-builder",
+      "description": "Multi-component claude.ai HTML artifacts with React/Tailwind/shadcn",
+      "source": "./plugins/artifacts-builder"
+    },
+    {
+      "name": "changelog-generator",
+      "description": "Auto-generate changelogs from git commits",
+      "source": "./plugins/changelog-generator"
+    },
+    {
+      "name": "diagram-generation",
+      "description": "Technical network/infrastructure diagrams using gemimg CLI",
+      "source": "./plugins/diagram-generation"
+    },
+    {
+      "name": "document-skills",
+      "description": "Work with Office documents (docx, pdf, pptx, xlsx)",
+      "source": "./plugins/document-skills"
+    },
+    {
+      "name": "file-organizer",
+      "description": "Intelligent file/folder organization",
+      "source": "./plugins/file-organizer"
+    },
+    {
+      "name": "gemimg-generation",
+      "description": "AI image generation using Google Gemini API",
+      "source": "./plugins/gemimg-generation"
+    },
+    {
+      "name": "github-cli",
+      "description": "Comprehensive GitHub CLI (gh) for repo/project management",
+      "source": "./plugins/github-cli"
+    },
+    {
+      "name": "image-upscaling",
+      "description": "AI-powered image upscaling with Real-ESRGAN",
+      "source": "./plugins/image-upscaling"
+    },
+    {
+      "name": "implementation-plan",
+      "description": "Generate structured implementation plans for Jira, PRs, and release docs",
+      "source": "./plugins/implementation-plan"
+    },
+    {
+      "name": "jira-story-generator",
+      "description": "Generate well-structured Jira user stories from problem descriptions",
+      "source": "./plugins/jira-story-generator"
+    },
+    {
+      "name": "next-steps",
+      "description": "Task tracking with next_steps.md files",
+      "source": "./plugins/next-steps"
+    },
+    {
+      "name": "playwright",
+      "description": "Browser automation with Playwright",
+      "source": "./plugins/playwright"
+    },
+    {
+      "name": "theme-factory",
+      "description": "Styling artifacts with 10 pre-set themes",
+      "source": "./plugins/theme-factory"
+    },
+    {
+      "name": "transcript-export",
+      "description": "Export Claude Code session transcripts to searchable HTML files",
+      "source": "./plugins/transcript-export"
+    },
+    {
+      "name": "typst-pdf-generator",
+      "description": "Markdown to PDF conversion using Typst and Pandoc",
+      "source": "./plugins/typst-pdf-generator"
+    },
+    {
+      "name": "zensical-local",
+      "description": "Best practices for running Zensical documentation server locally",
+      "source": "./plugins/zensical-local"
+    }
+  ]
+}

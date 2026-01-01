@@ -1,0 +1,8 @@
+{
+  "name": "github-cli",
+  "version": "1.0.0",
+  "description": "Comprehensive GitHub CLI (gh) skill for repository and project management including repos, issues, PRs, projects, actions, and common workflows",
+  "author": {
+    "name": "Andrew Capozzo"
+  }
+}

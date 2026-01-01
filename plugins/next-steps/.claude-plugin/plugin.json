@@ -1,0 +1,8 @@
+{
+  "name": "next-steps",
+  "version": "1.0.0",
+  "description": "Collaborative task tracking with local next_steps.md files for project planning and progress tracking",
+  "author": {
+    "name": "Andrew Capozzo"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "gemimg-generation",
+  "version": "1.0.0",
+  "description": "AI image generation using Google's Gemini API via the gemimg CLI tool. Supports text-to-image, image-to-image, and batch generation for concept art, illustrations, and creative assets.",
+  "author": {
+    "name": "Andrew Capozzo"
+  }
+}

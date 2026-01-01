@@ -1,0 +1,8 @@
+{
+  "name": "artifacts-builder",
+  "version": "1.0.0",
+  "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state manag",
+  "author": {
+    "name": "Andrew Capozzo"
+  }
+}

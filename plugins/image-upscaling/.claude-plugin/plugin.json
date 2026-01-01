@@ -1,0 +1,8 @@
+{
+  "name": "image-upscaling",
+  "version": "1.0.0",
+  "description": "Use Real-ESRGAN for AI-powered image upscaling (maps, character art, scenes) to create high-quality assets for HTML companions",
+  "author": {
+    "name": "Andrew Capozzo"
+  }
+}

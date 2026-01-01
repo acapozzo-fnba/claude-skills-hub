@@ -1,0 +1,8 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "Install and configure the Playwright MCP server for browser automation, testing, and web scraping capabilities",
+  "author": {
+    "name": "Andrew Capozzo"
+  }
+}

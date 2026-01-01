@@ -1,0 +1,8 @@
+{
+  "name": "transcript-export",
+  "version": "1.0.0",
+  "description": "Export Claude Code session transcripts to searchable HTML files using the claude-code-transcripts tool. Supports local exports and optional GitHub Gist publishing.",
+  "author": {
+    "name": "Andrew Capozzo"
+  }
+}
